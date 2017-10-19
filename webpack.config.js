@@ -7,6 +7,8 @@
 
 //touch2
 
+//touch3
+
 var webpack = require('webpack');
 var path = require('path');
 
