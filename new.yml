@@ -1,0 +1,10 @@
+---
+en:
+  api:
+    errors:
+      profile_completed_step:
+        incorrect: incorrectly us
+      device_token_2:
+        cannot_be_blank: "Device token can't be blank"
+      device_type_2:
+        is_required: Deviiii
