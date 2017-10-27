@@ -2,16 +2,16 @@ en:
   api:
     errors:
       profile_completed_step:
-        incorrect: Incorrectemently
+        incorrect: done
       device_token:
-        cannot_be_blank: Jeton de périphérique ne peut pas être vide
+        cannot_be_blank: ao
       device_type:
-        is_required: Le champ Type est obligatoire.
-      email_or_password_not_present: La demande doit contenir l'e-mail et mot de passe
-      access_token_invalid: Jeton d'accès valide
+        is_required: test
+      email_or_password_not_present: add
+      access_token_invalid: try
       video_request:
-        over: Cet appel vidéo est terminée
+        over: ''
       video_request1:
-        over1: Cet appel vidéo est fait
+        over1: ''
       video_request2:
-        over2: Cet appel vidéo est en cours
+        over2: ''
