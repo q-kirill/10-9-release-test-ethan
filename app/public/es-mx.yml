@@ -2,16 +2,16 @@ en:
   api:
     errors:
       profile_completed_step:
-        incorrect: ''
+        incorrect: save
       device_token:
-        cannot_be_blank: ''
+        cannot_be_blank: again
       device_type:
-        is_required: ''
-      email_or_password_not_present: ''
-      access_token_invalid: ''
+        is_required: hey
+      email_or_password_not_present: save
+      access_token_invalid: lets
       video_request:
-        over: ''
+        over: go
       video_request1:
-        over1: ''
+        over1: now
       video_request2:
-        over2: ''
+        over2: try
